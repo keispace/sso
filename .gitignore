@@ -35,5 +35,5 @@ http.http
 !.vscode/extensions.json
 
 # dotenv
-config/.production.env
-config/.env
+/config/env/.production.env
+/config/env/.env
